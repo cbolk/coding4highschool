@@ -19,7 +19,7 @@ Numeri
 
 ### sessione 4
 Stringhe, liste e dizionari
-+ Tag Cloud o Word Cloud -- come creare una word cloud dei testi delle canzoni del vostro gruppo/cantante preferito (o della Divina Commedia, o dei Promessi Sposi ...)
++ **Tag Cloud** o **Word Cloud** -- come creare una word cloud dei testi delle canzoni del vostro gruppo/cantante preferito (o della Divina Commedia, o dei Promessi Sposi ...)
 
 ### sessione 5
-Lavoro a gruppi per lo sviluppo di un programma che controlla le soluzioni del gioco del bersaglio
+Lavoro a gruppi per lo sviluppo di un programma che controlla le soluzioni del gioco del **bersaglio**
