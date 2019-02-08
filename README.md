@@ -27,4 +27,7 @@ Sottoprogrammi
 
 ### sessione 5
 Lavoro a gruppi per lo sviluppo di un programma che controlla le soluzioni del gioco del **bersaglio**
++ Sviluppo di un programma che dato un bersaglio ed una possibile soluzione, controlla se questa è corretta
++ Modifica del programma per aggiungere una messaggistica che aiuti l'utente a capire cosa va/non va nella soluzione
++ Proposta: dato un bersaglio, trovare la soluzione
 
