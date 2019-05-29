@@ -11,11 +11,11 @@ Materiale per un corso di risoluzione problemi mediante programmi in Python
 ### sessione 1
 Introduzione alla programmazione
 + Dal problema all'algoritmo al programma
-+ Il quesito della Susi
++ Il **quesito della Susi**
 
 ### sessione 2
 Numeri e loro manipolazione
-+ Il gioco di Einstein -- come manipolare un numero di tre cifre e ottenere sempre 1089.
++ Il **gioco di Einstein** -- come manipolare un numero di tre cifre e ottenere sempre 1089.
 
 ### sessione 3
 Stringhe, liste e dizionari
