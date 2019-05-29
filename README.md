@@ -12,7 +12,7 @@ Materiale per un corso di risoluzione problemi mediante programmi in Python
 Introduzione alla programmazione
 + Dal problema all'algoritmo al programma
 + Il **quesito della Susi** [problema][susi.md] e soluzioni [python notebook][susi.ipynb]
-+ Esercizi proposti e tracce di soluzione [python notebook][Esercizi1.ipynb]
++ Esercizi proposti e tracce di soluzione [python notebook](Esercizi1.ipynb)
 
 ### sessione 2
 Numeri e loro manipolazione
