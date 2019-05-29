@@ -11,19 +11,22 @@ Materiale per un corso di risoluzione problemi mediante programmi in Python
 ### sessione 1
 Introduzione alla programmazione
 + Dal problema all'algoritmo al programma
-+ Il **quesito della Susi** [problema][susi.md] e soluzioni [python notebook][susi.ipynb]
-+ Esercizi proposti e tracce di soluzione [python notebook](Esercizi1.ipynb)
++ Il **quesito della Susi**: [problema](susi.md) e soluzioni: [python notebook](susi.ipynb)
++ Esercizi proposti e tracce di soluzione: [python notebook](Esercizi1.ipynb)
 
 ### sessione 2
 Numeri e loro manipolazione
-+ Il **gioco di Einstein** -- come manipolare un numero di tre cifre e ottenere sempre 1089.
++ Il **gioco di Einstein** -- come manipolare un numero di tre cifre e ottenere sempre 1089: [problema e soluzioni](Einstein.md)
++ Esercizi proposti e tracce di soluzione: [python notebook](Esercizi2.ipynb)
 
 ### sessione 3
 Stringhe, liste e dizionari
 + **Tag Cloud** o **Word Cloud** -- come creare una word cloud dei testi delle canzoni del vostro gruppo/cantante preferito (o della Divina Commedia, o dei Promessi Sposi ...)
++ Esercizi proposti e tracce di soluzione: [python notebook](Esercizi3.ipynb)
 
 ### sessione 4
 Sottoprogrammi
++ Esercizi proposti e tracce di soluzione: [python notebook](Esercizi4.ipynb)
 
 
 ### sessione 5
