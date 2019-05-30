@@ -35,3 +35,5 @@ Lavoro a gruppi per lo sviluppo di un programma che controlla le soluzioni del g
 + Modifica del programma per aggiungere una messaggistica che aiuti l'utente a capire cosa va/non va nella soluzione
 + Proposta: dato un bersaglio, trovare la soluzione
 
+[specifica][bersaglio.md]
+[python notebook](bersaglio.ipynb)
