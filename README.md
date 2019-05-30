@@ -16,7 +16,7 @@ Introduzione alla programmazione
 
 ### sessione 2
 Numeri e loro manipolazione
-+ Il **gioco di Einstein** -- come manipolare un numero di tre cifre e ottenere sempre 1089: [problema e soluzioni](Einstein.md)
++ Il **gioco di Einstein** -- come manipolare un numero di tre cifre e ottenere sempre 1089: [problema e soluzioni](Einstein.ipynb)
 + Esercizi proposti e tracce di soluzione: [python notebook](Esercizi2.ipynb)
 
 ### sessione 3
