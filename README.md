@@ -21,7 +21,7 @@ Numeri e loro manipolazione
 
 ### sessione 3
 Stringhe, liste e dizionari
-+ **Tag Cloud** o **Word Cloud** -- come creare una word cloud dei testi delle canzoni del vostro gruppo/cantante preferito (o della Divina Commedia, o dei Promessi Sposi ...)
++ **Tag Cloud** o **Word Cloud** -- come creare una word cloud dei testi delle canzoni del vostro gruppo/cantante preferito (o della Divina Commedia, o dei Promessi Sposi ...) [il codice](CloudTag.ipynb)
 + Esercizi proposti e tracce di soluzione: [python notebook](Esercizi3.ipynb)
 
 ### sessione 4
