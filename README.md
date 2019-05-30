@@ -36,4 +36,5 @@ Lavoro a gruppi per lo sviluppo di un programma che controlla le soluzioni del g
 + Proposta: dato un bersaglio, trovare la soluzione
 
 [specifica](bersaglio.md)
+
 [python notebook](bersaglio.ipynb)
